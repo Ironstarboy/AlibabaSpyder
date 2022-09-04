@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d17453aa-8146-4619-88ad-2df49c4ea6d7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2C7YLWPKgdPZkNe7I4au4LXOSDZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\20_code_muti_language\23 python\AlibabaPriceSpyder" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.urlMatch">
+    <configuration name="demo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AlibabaPriceSpyder" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="myio" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AlibabaPriceSpyder" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/myio.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="urlMatch" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AlibabaPriceSpyder" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/urlMatch.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.demo" />
+      <item itemvalue="Python.myio" />
+      <item itemvalue="Python.urlMatch" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.urlMatch" />
+        <item itemvalue="Python.demo" />
+        <item itemvalue="Python.myio" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d17453aa-8146-4619-88ad-2df49c4ea6d7" name="Default Changelist" comment="" />
+      <created>1658155035362</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1658155035362</updated>
+      <workItem from="1658155038619" duration="1355000" />
+      <workItem from="1658299998481" duration="1192000" />
+      <workItem from="1660035728328" duration="5947000" />
+      <workItem from="1660833870264" duration="5611000" />
+      <workItem from="1661434930823" duration="599000" />
+      <workItem from="1661441520836" duration="1247000" />
+      <workItem from="1662102374662" duration="2808000" />
+      <workItem from="1662223051818" duration="9207000" />
+      <workItem from="1662282138138" duration="2110000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="371" y="184" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1662224344384">
+      <screen x="0" y="40" width="2048" height="1112" />
+    </state>
+    <state x="371" y="184" key="#com.intellij.execution.impl.EditConfigurationsDialog/-2560.33.1707.927/0.40.2048.1112@0.40.2048.1112" timestamp="1662224344384" />
+    <state x="309" y="159" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.40.1707.920@0.40.1707.920" timestamp="1660834824836" />
+    <state x="582" y="309" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1660039025733">
+      <screen x="0" y="40" width="1707" height="920" />
+    </state>
+    <state x="582" y="309" key="#com.intellij.fileTypes.FileTypeChooser/0.40.1707.920@0.40.1707.920" timestamp="1660039025733" />
+    <state width="1663" height="260" key="GridCell.Tab.0.bottom" timestamp="1662283317818">
+      <screen x="0" y="40" width="1707" height="920" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/-1920.40.1536.824/0.40.2048.1112@-1920.40.1536.824" timestamp="1658162398426" />
+    <state width="2001" height="277" key="GridCell.Tab.0.bottom/-2560.33.1707.927/0.40.2048.1112@0.40.2048.1112" timestamp="1662231124263" />
+    <state width="1663" height="277" key="GridCell.Tab.0.bottom/-2560.40.1707.920/0.40.1707.920@-2560.40.1707.920" timestamp="1662231747155" />
+    <state width="1663" height="260" key="GridCell.Tab.0.bottom/-2560.40.1707.920/0.40.1707.920@0.40.1707.920" timestamp="1662283317818" />
+    <state width="2005" height="344" key="GridCell.Tab.0.bottom/0.40.1707.920/-2560.40.2048.1112@-2560.40.2048.1112" timestamp="1662103409457" />
+    <state width="2005" height="344" key="GridCell.Tab.0.bottom/0.40.1707.920/-2560.40.2048.1112@0.40.1707.920" timestamp="1662106448620" />
+    <state width="1663" height="300" key="GridCell.Tab.0.bottom/0.40.1707.920@0.40.1707.920" timestamp="1660839526299" />
+    <state width="1663" height="260" key="GridCell.Tab.0.center" timestamp="1662283317817">
+      <screen x="0" y="40" width="1707" height="920" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.center/-1920.40.1536.824/0.40.2048.1112@-1920.40.1536.824" timestamp="1658162398425" />
+    <state width="2001" height="277" key="GridCell.Tab.0.center/-2560.33.1707.927/0.40.2048.1112@0.40.2048.1112" timestamp="1662231124263" />
+    <state width="1663" height="277" key="GridCell.Tab.0.center/-2560.40.1707.920/0.40.1707.920@-2560.40.1707.920" timestamp="1662231747155" />
+    <state width="1663" height="260" key="GridCell.Tab.0.center/-2560.40.1707.920/0.40.1707.920@0.40.1707.920" timestamp="1662283317817" />
+    <state width="2005" height="344" key="GridCell.Tab.0.center/0.40.1707.920/-2560.40.2048.1112@-2560.40.2048.1112" timestamp="1662103409457" />
+    <state width="2005" height="344" key="GridCell.Tab.0.center/0.40.1707.920/-2560.40.2048.1112@0.40.1707.920" timestamp="1662106448619" />
+    <state width="1663" height="300" key="GridCell.Tab.0.center/0.40.1707.920@0.40.1707.920" timestamp="1660839526299" />
+    <state width="1663" height="260" key="GridCell.Tab.0.left" timestamp="1662283317817">
+      <screen x="0" y="40" width="1707" height="920" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.left/-1920.40.1536.824/0.40.2048.1112@-1920.40.1536.824" timestamp="1658162398425" />
+    <state width="2001" height="277" key="GridCell.Tab.0.left/-2560.33.1707.927/0.40.2048.1112@0.40.2048.1112" timestamp="1662231124263" />
+    <state width="1663" height="277" key="GridCell.Tab.0.left/-2560.40.1707.920/0.40.1707.920@-2560.40.1707.920" timestamp="1662231747154" />
+    <state width="1663" height="260" key="GridCell.Tab.0.left/-2560.40.1707.920/0.40.1707.920@0.40.1707.920" timestamp="1662283317817" />
+    <state width="2005" height="344" key="GridCell.Tab.0.left/0.40.1707.920/-2560.40.2048.1112@-2560.40.2048.1112" timestamp="1662103409455" />
+    <state width="2005" height="344" key="GridCell.Tab.0.left/0.40.1707.920/-2560.40.2048.1112@0.40.1707.920" timestamp="1662106448619" />
+    <state width="1663" height="300" key="GridCell.Tab.0.left/0.40.1707.920@0.40.1707.920" timestamp="1660839526299" />
+    <state width="1663" height="260" key="GridCell.Tab.0.right" timestamp="1662283317817">
+      <screen x="0" y="40" width="1707" height="920" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.right/-1920.40.1536.824/0.40.2048.1112@-1920.40.1536.824" timestamp="1658162398426" />
+    <state width="2001" height="277" key="GridCell.Tab.0.right/-2560.33.1707.927/0.40.2048.1112@0.40.2048.1112" timestamp="1662231124263" />
+    <state width="1663" height="277" key="GridCell.Tab.0.right/-2560.40.1707.920/0.40.1707.920@-2560.40.1707.920" timestamp="1662231747155" />
+    <state width="1663" height="260" key="GridCell.Tab.0.right/-2560.40.1707.920/0.40.1707.920@0.40.1707.920" timestamp="1662283317817" />
+    <state width="2005" height="344" key="GridCell.Tab.0.right/0.40.1707.920/-2560.40.2048.1112@-2560.40.2048.1112" timestamp="1662103409457" />
+    <state width="2005" height="344" key="GridCell.Tab.0.right/0.40.1707.920/-2560.40.2048.1112@0.40.1707.920" timestamp="1662106448619" />
+    <state width="1663" height="300" key="GridCell.Tab.0.right/0.40.1707.920@0.40.1707.920" timestamp="1660839526299" />
+    <state width="1663" height="260" key="GridCell.Tab.1.bottom" timestamp="1662283355678">
+      <screen x="0" y="40" width="1707" height="920" />
+    </state>
+    <state width="2005" height="199" key="GridCell.Tab.1.bottom/-2560.33.1707.927/0.40.2048.1112@0.40.2048.1112" timestamp="1662229256818" />
+    <state width="1663" height="260" key="GridCell.Tab.1.bottom/-2560.40.1707.920/0.40.1707.920@0.40.1707.920" timestamp="1662283355678" />
+    <state width="1663" height="300" key="GridCell.Tab.1.bottom/0.40.1707.920@0.40.1707.920" timestamp="1660839526299" />
+    <state width="1663" height="260" key="GridCell.Tab.1.center" timestamp="1662283355678">
+      <screen x="0" y="40" width="1707" height="920" />
+    </state>
+    <state width="2005" height="199" key="GridCell.Tab.1.center/-2560.33.1707.927/0.40.2048.1112@0.40.2048.1112" timestamp="1662229256818" />
+    <state width="1663" height="260" key="GridCell.Tab.1.center/-2560.40.1707.920/0.40.1707.920@0.40.1707.920" timestamp="1662283355678" />
+    <state width="1663" height="300" key="GridCell.Tab.1.center/0.40.1707.920@0.40.1707.920" timestamp="1660839526299" />
+    <state width="1663" height="260" key="GridCell.Tab.1.left" timestamp="1662283355678">
+      <screen x="0" y="40" width="1707" height="920" />
+    </state>
+    <state width="2005" height="199" key="GridCell.Tab.1.left/-2560.33.1707.927/0.40.2048.1112@0.40.2048.1112" timestamp="1662229256818" />
+    <state width="1663" height="260" key="GridCell.Tab.1.left/-2560.40.1707.920/0.40.1707.920@0.40.1707.920" timestamp="1662283355678" />
+    <state width="1663" height="300" key="GridCell.Tab.1.left/0.40.1707.920@0.40.1707.920" timestamp="1660839526299" />
+    <state width="1663" height="260" key="GridCell.Tab.1.right" timestamp="1662283355678">
+      <screen x="0" y="40" width="1707" height="920" />
+    </state>
+    <state width="2005" height="199" key="GridCell.Tab.1.right/-2560.33.1707.927/0.40.2048.1112@0.40.2048.1112" timestamp="1662229256818" />
+    <state width="1663" height="260" key="GridCell.Tab.1.right/-2560.40.1707.920/0.40.1707.920@0.40.1707.920" timestamp="1662283355678" />
+    <state width="1663" height="300" key="GridCell.Tab.1.right/0.40.1707.920@0.40.1707.920" timestamp="1660839526299" />
+    <state width="1031" height="563" key="XDebugger.FullValuePopup" timestamp="1662229220132">
+      <screen x="0" y="40" width="2048" height="1112" />
+    </state>
+    <state width="1031" height="563" key="XDebugger.FullValuePopup/-2560.33.1707.927/0.40.2048.1112@0.40.2048.1112" timestamp="1662229220132" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/AlibabaPriceSpyder$demo.coverage" NAME="demo Coverage Results" MODIFIED="1662228317074" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/AlibabaPriceSpyder$urlMatch.coverage" NAME="urlMatch Coverage Results" MODIFIED="1662283317658" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/AlibabaPriceSpyder$myio.coverage" NAME="myio Coverage Results" MODIFIED="1662103395590" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
