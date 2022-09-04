@@ -103,11 +103,11 @@ class Spyder:
         return title,url
 
 def getGoodsInfo():
-    df=pd.read_csv('productDetail.csv')
+    df=pd.read_csv('src/productDetail.csv')
     return df
 
 def save2xlsx(productName,smallAmount,largeAmount,lowPrice,highPrice):
-    outFileName='alibaba商品爬取结果.csv'
+    outFileName='out/alibaba商品爬取结果.csv'
     spyderTime=pd.datetime.now()
     if not os.path.exists(outFileName):
         with open(outFileName,'w',encoding='utf8') as f:

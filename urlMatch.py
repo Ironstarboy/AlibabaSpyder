@@ -2,7 +2,7 @@
 import pandas as pd
 import demo
 from tqdm import tqdm
-df=pd.read_excel('Global SP Competitor grade and price tracking for Jiarong.xlsx')
+df=pd.read_excel('src/Global SP Competitor grade and price tracking for Jiarong.xlsx')
 
 
 titles=[]
@@ -11,7 +11,6 @@ urls=[]
 productNames=df['Grade name'].tolist()
 companyNames=df['Company'].tolist()
 
-details=pd.read_excel('./Global SP Competitor grade and price tracking for Jiarong.xlsx')
 urls=['']*len(productNames)
 count=0
 for i in tqdm(range(len(productNames))):
