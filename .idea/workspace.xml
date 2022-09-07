@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d17453aa-8146-4619-88ad-2df49c4ea6d7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Global SP Competitor grade and price tracking for Jiarong.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Global SP Competitor grade and price tracking for Jiarong.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alibaba商品爬取结果.csv" beforeDir="false" afterPath="$PROJECT_DIR$/out/alibaba商品爬取结果.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/updatePrice.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/demo.py" beforeDir="false" afterPath="$PROJECT_DIR$/demo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/productDetail.csv" beforeDir="false" afterPath="$PROJECT_DIR$/src/productDetail.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/urlMatch.py" beforeDir="false" afterPath="$PROJECT_DIR$/urlMatch.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,6 +41,8 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\20_code_muti_language\23 python\AlibabaPriceSpyder\out" />
+      <recent name="D:\20_code_muti_language\23 python\AlibabaPriceSpyder\src" />
       <recent name="D:\20_code_muti_language\23 python\AlibabaPriceSpyder" />
     </key>
   </component>
@@ -143,7 +144,8 @@
       <workItem from="1661441520836" duration="1247000" />
       <workItem from="1662102374662" duration="2808000" />
       <workItem from="1662223051818" duration="9207000" />
-      <workItem from="1662282138138" duration="2981000" />
+      <workItem from="1662282138138" duration="3112000" />
+      <workItem from="1662475034050" duration="2308000" />
     </task>
     <servers />
   </component>
@@ -160,70 +162,70 @@
       <screen x="0" y="40" width="1707" height="920" />
     </state>
     <state x="582" y="309" key="#com.intellij.fileTypes.FileTypeChooser/0.40.1707.920@0.40.1707.920" timestamp="1660039025733" />
-    <state width="1663" height="260" key="GridCell.Tab.0.bottom" timestamp="1662285229864">
+    <state width="1663" height="277" key="GridCell.Tab.0.bottom" timestamp="1662477926140">
       <screen x="0" y="40" width="1707" height="920" />
     </state>
     <state width="1493" height="210" key="GridCell.Tab.0.bottom/-1920.40.1536.824/0.40.2048.1112@-1920.40.1536.824" timestamp="1658162398426" />
     <state width="2001" height="277" key="GridCell.Tab.0.bottom/-2560.33.1707.927/0.40.2048.1112@0.40.2048.1112" timestamp="1662231124263" />
     <state width="1663" height="277" key="GridCell.Tab.0.bottom/-2560.40.1707.920/0.40.1707.920@-2560.40.1707.920" timestamp="1662231747155" />
-    <state width="1663" height="260" key="GridCell.Tab.0.bottom/-2560.40.1707.920/0.40.1707.920@0.40.1707.920" timestamp="1662283317818" />
+    <state width="1663" height="277" key="GridCell.Tab.0.bottom/-2560.40.1707.920/0.40.1707.920@0.40.1707.920" timestamp="1662477926140" />
     <state width="2005" height="344" key="GridCell.Tab.0.bottom/0.40.1707.920/-2560.40.2048.1112@-2560.40.2048.1112" timestamp="1662103409457" />
     <state width="2005" height="344" key="GridCell.Tab.0.bottom/0.40.1707.920/-2560.40.2048.1112@0.40.1707.920" timestamp="1662106448620" />
-    <state width="1663" height="260" key="GridCell.Tab.0.bottom/0.40.1707.920@0.40.1707.920" timestamp="1662285229864" />
-    <state width="1663" height="260" key="GridCell.Tab.0.center" timestamp="1662285229863">
+    <state width="1663" height="260" key="GridCell.Tab.0.bottom/0.40.1707.920@0.40.1707.920" timestamp="1662285364963" />
+    <state width="1663" height="277" key="GridCell.Tab.0.center" timestamp="1662477926139">
       <screen x="0" y="40" width="1707" height="920" />
     </state>
     <state width="1493" height="210" key="GridCell.Tab.0.center/-1920.40.1536.824/0.40.2048.1112@-1920.40.1536.824" timestamp="1658162398425" />
     <state width="2001" height="277" key="GridCell.Tab.0.center/-2560.33.1707.927/0.40.2048.1112@0.40.2048.1112" timestamp="1662231124263" />
     <state width="1663" height="277" key="GridCell.Tab.0.center/-2560.40.1707.920/0.40.1707.920@-2560.40.1707.920" timestamp="1662231747155" />
-    <state width="1663" height="260" key="GridCell.Tab.0.center/-2560.40.1707.920/0.40.1707.920@0.40.1707.920" timestamp="1662283317817" />
+    <state width="1663" height="277" key="GridCell.Tab.0.center/-2560.40.1707.920/0.40.1707.920@0.40.1707.920" timestamp="1662477926139" />
     <state width="2005" height="344" key="GridCell.Tab.0.center/0.40.1707.920/-2560.40.2048.1112@-2560.40.2048.1112" timestamp="1662103409457" />
     <state width="2005" height="344" key="GridCell.Tab.0.center/0.40.1707.920/-2560.40.2048.1112@0.40.1707.920" timestamp="1662106448619" />
-    <state width="1663" height="260" key="GridCell.Tab.0.center/0.40.1707.920@0.40.1707.920" timestamp="1662285229863" />
-    <state width="1663" height="260" key="GridCell.Tab.0.left" timestamp="1662285229863">
+    <state width="1663" height="260" key="GridCell.Tab.0.center/0.40.1707.920@0.40.1707.920" timestamp="1662285364963" />
+    <state width="1663" height="277" key="GridCell.Tab.0.left" timestamp="1662477926139">
       <screen x="0" y="40" width="1707" height="920" />
     </state>
     <state width="1493" height="210" key="GridCell.Tab.0.left/-1920.40.1536.824/0.40.2048.1112@-1920.40.1536.824" timestamp="1658162398425" />
     <state width="2001" height="277" key="GridCell.Tab.0.left/-2560.33.1707.927/0.40.2048.1112@0.40.2048.1112" timestamp="1662231124263" />
     <state width="1663" height="277" key="GridCell.Tab.0.left/-2560.40.1707.920/0.40.1707.920@-2560.40.1707.920" timestamp="1662231747154" />
-    <state width="1663" height="260" key="GridCell.Tab.0.left/-2560.40.1707.920/0.40.1707.920@0.40.1707.920" timestamp="1662283317817" />
+    <state width="1663" height="277" key="GridCell.Tab.0.left/-2560.40.1707.920/0.40.1707.920@0.40.1707.920" timestamp="1662477926139" />
     <state width="2005" height="344" key="GridCell.Tab.0.left/0.40.1707.920/-2560.40.2048.1112@-2560.40.2048.1112" timestamp="1662103409455" />
     <state width="2005" height="344" key="GridCell.Tab.0.left/0.40.1707.920/-2560.40.2048.1112@0.40.1707.920" timestamp="1662106448619" />
-    <state width="1663" height="260" key="GridCell.Tab.0.left/0.40.1707.920@0.40.1707.920" timestamp="1662285229863" />
-    <state width="1663" height="260" key="GridCell.Tab.0.right" timestamp="1662285229864">
+    <state width="1663" height="260" key="GridCell.Tab.0.left/0.40.1707.920@0.40.1707.920" timestamp="1662285364963" />
+    <state width="1663" height="277" key="GridCell.Tab.0.right" timestamp="1662477926140">
       <screen x="0" y="40" width="1707" height="920" />
     </state>
     <state width="1493" height="210" key="GridCell.Tab.0.right/-1920.40.1536.824/0.40.2048.1112@-1920.40.1536.824" timestamp="1658162398426" />
     <state width="2001" height="277" key="GridCell.Tab.0.right/-2560.33.1707.927/0.40.2048.1112@0.40.2048.1112" timestamp="1662231124263" />
     <state width="1663" height="277" key="GridCell.Tab.0.right/-2560.40.1707.920/0.40.1707.920@-2560.40.1707.920" timestamp="1662231747155" />
-    <state width="1663" height="260" key="GridCell.Tab.0.right/-2560.40.1707.920/0.40.1707.920@0.40.1707.920" timestamp="1662283317817" />
+    <state width="1663" height="277" key="GridCell.Tab.0.right/-2560.40.1707.920/0.40.1707.920@0.40.1707.920" timestamp="1662477926140" />
     <state width="2005" height="344" key="GridCell.Tab.0.right/0.40.1707.920/-2560.40.2048.1112@-2560.40.2048.1112" timestamp="1662103409457" />
     <state width="2005" height="344" key="GridCell.Tab.0.right/0.40.1707.920/-2560.40.2048.1112@0.40.1707.920" timestamp="1662106448619" />
-    <state width="1663" height="260" key="GridCell.Tab.0.right/0.40.1707.920@0.40.1707.920" timestamp="1662285229864" />
-    <state width="1663" height="260" key="GridCell.Tab.1.bottom" timestamp="1662285229864">
+    <state width="1663" height="260" key="GridCell.Tab.0.right/0.40.1707.920@0.40.1707.920" timestamp="1662285364963" />
+    <state width="1663" height="260" key="GridCell.Tab.1.bottom" timestamp="1662285364963">
       <screen x="0" y="40" width="1707" height="920" />
     </state>
     <state width="2005" height="199" key="GridCell.Tab.1.bottom/-2560.33.1707.927/0.40.2048.1112@0.40.2048.1112" timestamp="1662229256818" />
     <state width="1663" height="260" key="GridCell.Tab.1.bottom/-2560.40.1707.920/0.40.1707.920@0.40.1707.920" timestamp="1662283355678" />
-    <state width="1663" height="260" key="GridCell.Tab.1.bottom/0.40.1707.920@0.40.1707.920" timestamp="1662285229864" />
-    <state width="1663" height="260" key="GridCell.Tab.1.center" timestamp="1662285229864">
+    <state width="1663" height="260" key="GridCell.Tab.1.bottom/0.40.1707.920@0.40.1707.920" timestamp="1662285364963" />
+    <state width="1663" height="260" key="GridCell.Tab.1.center" timestamp="1662285364963">
       <screen x="0" y="40" width="1707" height="920" />
     </state>
     <state width="2005" height="199" key="GridCell.Tab.1.center/-2560.33.1707.927/0.40.2048.1112@0.40.2048.1112" timestamp="1662229256818" />
     <state width="1663" height="260" key="GridCell.Tab.1.center/-2560.40.1707.920/0.40.1707.920@0.40.1707.920" timestamp="1662283355678" />
-    <state width="1663" height="260" key="GridCell.Tab.1.center/0.40.1707.920@0.40.1707.920" timestamp="1662285229864" />
-    <state width="1663" height="260" key="GridCell.Tab.1.left" timestamp="1662285229864">
+    <state width="1663" height="260" key="GridCell.Tab.1.center/0.40.1707.920@0.40.1707.920" timestamp="1662285364963" />
+    <state width="1663" height="260" key="GridCell.Tab.1.left" timestamp="1662285364963">
       <screen x="0" y="40" width="1707" height="920" />
     </state>
     <state width="2005" height="199" key="GridCell.Tab.1.left/-2560.33.1707.927/0.40.2048.1112@0.40.2048.1112" timestamp="1662229256818" />
     <state width="1663" height="260" key="GridCell.Tab.1.left/-2560.40.1707.920/0.40.1707.920@0.40.1707.920" timestamp="1662283355678" />
-    <state width="1663" height="260" key="GridCell.Tab.1.left/0.40.1707.920@0.40.1707.920" timestamp="1662285229864" />
-    <state width="1663" height="260" key="GridCell.Tab.1.right" timestamp="1662285229864">
+    <state width="1663" height="260" key="GridCell.Tab.1.left/0.40.1707.920@0.40.1707.920" timestamp="1662285364963" />
+    <state width="1663" height="260" key="GridCell.Tab.1.right" timestamp="1662285364963">
       <screen x="0" y="40" width="1707" height="920" />
     </state>
     <state width="2005" height="199" key="GridCell.Tab.1.right/-2560.33.1707.927/0.40.2048.1112@0.40.2048.1112" timestamp="1662229256818" />
     <state width="1663" height="260" key="GridCell.Tab.1.right/-2560.40.1707.920/0.40.1707.920@0.40.1707.920" timestamp="1662283355678" />
-    <state width="1663" height="260" key="GridCell.Tab.1.right/0.40.1707.920@0.40.1707.920" timestamp="1662285229864" />
+    <state width="1663" height="260" key="GridCell.Tab.1.right/0.40.1707.920@0.40.1707.920" timestamp="1662285364963" />
     <state width="1031" height="563" key="XDebugger.FullValuePopup" timestamp="1662229220132">
       <screen x="0" y="40" width="2048" height="1112" />
     </state>
@@ -242,7 +244,7 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/AlibabaPriceSpyder$demo.coverage" NAME="demo Coverage Results" MODIFIED="1662228317074" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/AlibabaPriceSpyder$urlMatch.coverage" NAME="urlMatch Coverage Results" MODIFIED="1662285229848" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/AlibabaPriceSpyder$urlMatch.coverage" NAME="urlMatch Coverage Results" MODIFIED="1662475252558" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/AlibabaPriceSpyder$myio.coverage" NAME="myio Coverage Results" MODIFIED="1662103395590" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

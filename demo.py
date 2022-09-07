@@ -37,6 +37,8 @@ class Spyder:
         chrome_options = webdriver.ChromeOptions()
         # 让浏览器不显示自动化测试
         chrome_options.add_argument('disable-infobars')
+        # 运行时隐藏窗口
+        chrome_options.add_argument('headless')
         # 禁止加载图片
         # prefs = {'profile.managed_default_content_settings.images': 2}
         # chrome_options.add_experimental_option('prefs', prefs)
@@ -120,20 +122,7 @@ def save2xlsx(productName,smallAmount,largeAmount,lowPrice,highPrice):
 
 
 if __name__ == '__main__':
-    spyder=Spyder()
-    # goodsInfo:pd.DataFrame=getGoodsInfo()
-    # for index, goodsInfo in goodsInfo.iterrows():
-    #     haveNan=0
-    #     for i in goodsInfo:
-    #         if pd.isna(i):
-    #             haveNan=1
-    #             print(f"{goodsInfo['productName']} 暂未在alibaba搜寻到")
-    #             break
-    #     if not haveNan:
-    #         spyder.getPrice(goodsInfo)
-    # print('价格更新完成')
-
-    spyder.saveUrlFromSearch()
+    ...
 
 
 

@@ -21,4 +21,4 @@ for i in tqdm(range(len(productNames))):
     urls[i]=url
 
 df['url']=urls
-print()
+df.to_excel('productInfo.xlsx',index=False)
